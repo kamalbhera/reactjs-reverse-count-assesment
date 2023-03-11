@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React App Reverse counter 10 to 0
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Assesment are simple react counter to work 10 to 0. this is interview quetion ask by many MNC Company
 
 ## Available Scripts
 
